@@ -12,7 +12,7 @@ countries << "Australia"
 end
 
 def add_element_to_start_of_array(array, element)
-  candies.unshift
+  candies.unshift("nomnoms")
 end
 
 def remove_element_from_end_of_array(array)
